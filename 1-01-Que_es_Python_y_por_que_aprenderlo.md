@@ -43,7 +43,7 @@ En resumen, Python es un lenguaje de programación fácil de aprender, versátil
 Escribe un programa en Python que pregunte al usuario su nombre y edad, y luego imprima una mensaje de bienvenida con el nombre y la edad del usuario.
 
 Solución:
-```
+```python
 nombre = input("¿Cuál es tu nombre? ")
 edad = int(input("¿Cuántos años tienes? "))
 
